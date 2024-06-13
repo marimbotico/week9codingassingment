@@ -1,0 +1,15 @@
+{
+  "name": "week-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codingwk9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
